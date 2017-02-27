@@ -1,0 +1,6 @@
+C:\Users\Dennis\Desktop\Software Dev opgaver\Test\Hand In\TestHandIn2EquivalenceBoundary\TestHandIn2EquivalenceBoundary\bin\Debug\TestHandIn2EquivalenceBoundary.exe.config
+C:\Users\Dennis\Desktop\Software Dev opgaver\Test\Hand In\TestHandIn2EquivalenceBoundary\TestHandIn2EquivalenceBoundary\bin\Debug\TestHandIn2EquivalenceBoundary.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Test\Hand In\TestHandIn2EquivalenceBoundary\TestHandIn2EquivalenceBoundary\bin\Debug\TestHandIn2EquivalenceBoundary.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Test\Hand In\TestHandIn2EquivalenceBoundary\TestHandIn2EquivalenceBoundary\obj\Debug\TestHandIn2EquivalenceBoundary.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Dev opgaver\Test\Hand In\TestHandIn2EquivalenceBoundary\TestHandIn2EquivalenceBoundary\obj\Debug\TestHandIn2EquivalenceBoundary.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Test\Hand In\TestHandIn2EquivalenceBoundary\TestHandIn2EquivalenceBoundary\obj\Debug\TestHandIn2EquivalenceBoundary.pdb
